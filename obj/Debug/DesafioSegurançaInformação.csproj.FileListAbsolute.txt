@@ -1,0 +1,12 @@
+C:\Users\Willian Deascanio\source\repos\DesafioSegurançaInformação\bin\Debug\DesafioSegurançaInformação.exe.config
+C:\Users\Willian Deascanio\source\repos\DesafioSegurançaInformação\bin\Debug\DesafioSegurançaInformação.exe
+C:\Users\Willian Deascanio\source\repos\DesafioSegurançaInformação\bin\Debug\DesafioSegurançaInformação.pdb
+C:\Users\Willian Deascanio\source\repos\DesafioSegurançaInformação\obj\Debug\DesafioSegurançaInformação.csprojAssemblyReference.cache
+C:\Users\Willian Deascanio\source\repos\DesafioSegurançaInformação\obj\Debug\DesafioSegurançaInformação.Form_Cadastro.resources
+C:\Users\Willian Deascanio\source\repos\DesafioSegurançaInformação\obj\Debug\DesafioSegurançaInformação.Form_Login.resources
+C:\Users\Willian Deascanio\source\repos\DesafioSegurançaInformação\obj\Debug\DesafioSegurançaInformação.Form_Principal.resources
+C:\Users\Willian Deascanio\source\repos\DesafioSegurançaInformação\obj\Debug\DesafioSegurançaInformação.Properties.Resources.resources
+C:\Users\Willian Deascanio\source\repos\DesafioSegurançaInformação\obj\Debug\DesafioSegurançaInformação.csproj.GenerateResource.cache
+C:\Users\Willian Deascanio\source\repos\DesafioSegurançaInformação\obj\Debug\DesafioSegurançaInformação.csproj.CoreCompileInputs.cache
+C:\Users\Willian Deascanio\source\repos\DesafioSegurançaInformação\obj\Debug\DesafioSegurançaInformação.exe
+C:\Users\Willian Deascanio\source\repos\DesafioSegurançaInformação\obj\Debug\DesafioSegurançaInformação.pdb
