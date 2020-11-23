@@ -108,7 +108,6 @@ namespace DesafioSegurançaInformação
             // btnSalvar_Form_Cadastro
             // 
             this.btnSalvar_Form_Cadastro.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnSalvar_Form_Cadastro.Image = ((System.Drawing.Image)(resources.GetObject("btnSalvar_Form_Cadastro.Image")));
             this.btnSalvar_Form_Cadastro.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.btnSalvar_Form_Cadastro.Location = new System.Drawing.Point(151, 185);
             this.btnSalvar_Form_Cadastro.Name = "btnSalvar_Form_Cadastro";
